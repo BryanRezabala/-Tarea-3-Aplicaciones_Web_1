@@ -1,0 +1,30 @@
+body{
+	background-image: url("moradoliso.png");
+}
+.img{
+	height: 200px;
+	width: 240px;
+	margin-top: 160px;
+	margin-left: -300px;
+	margin: -180px 10px;
+	border-radius: 20%;
+}	
+input[type=button]{
+	background: transparent;
+    color: rgb(0, 0, 0);
+	border-color: transparent;
+    cursor: pointer;
+	font-size: 17px;
+	font-family: cursive;
+	width: 900px;
+	height: -5px;
+	padding: 10px;
+    margin: 12px 200px ;
+    border-radius: 30px;
+
+}
+input[type=button]:hover{
+    background-color: transparent;
+    border: 2px solid rgba(130, 139, 221, 0.459);
+    color:rgb(255, 0.15s);
+}
